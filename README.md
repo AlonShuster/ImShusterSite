@@ -1,2 +1,2 @@
 # ImShusterSite
-my second site that i've created
+second site that ever created
